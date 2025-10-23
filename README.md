@@ -1,122 +1,89 @@
-# 50 Projetos de Programação para Iniciantes e Avançados
-Inspirado no site **Codedex**, que ensina Python e outras linguagens de programação.
+# 50 Projetos de Programação para Iniciantes e Avançados 🚀
+
+Este repositório é uma coletânea de **50 ideias de projetos** de programação que o site **codedex.io**  colocou como prática. Divididas em três níveis de dificuldade, do básico ao avançado. O objetivo é oferecer uma **trilha de aprendizado prática** para programadores de todos os níveis que buscam consolidar conceitos, aprender novas tecnologias e construir um portfólio sólido.
+
+O foco é o **aprendizado através da prática**, incentivando o uso de lógica, estruturas de dados e, nos níveis mais altos, a interação com bases de dados e a construção de mini-jogos.
 
 ---
 
-## **Fase 0 – Preparação**
+## 50 Ideias de Projetos
 
-Antes de começar os projetos, tenha noções básicas de Python:
+### 📚 Nível 1: Introdução e Fundamentos
 
-* Variáveis, tipos de dados (int, float, str, bool)
-* Operadores matemáticos e lógicos
-* Funções e estruturas de decisão (`if/else`)
-* Loops (`for` e `while`)
-* Entrada/saída de dados (`input()` e `print()`)
+A primeira leva de projetos é ideal para quem está começando e precisa consolidar os conceitos básicos.
 
----
+**Conceitos chave:** Estruturas condicionais (`if/else`), geradores de números aleatórios e laços de repetição (`loops`). Uma exceção para o 🫱 Rock Paper Scissors e 🫱 Rock Paper Scissors Lizard Spock, pois esses foi usado listas e dicionários respectivamentes, para simplificar.
 
-## **Fase 1 – Conceitos Básicos** (Projetos Nível 1)
-
-Objetivo: fixar lógica, loops, funções simples e aleatoriedade.
-
-**Projetos sugeridos:**
-
-* 🥠 Biscoito da Sorte → funções, strings, aleatoriedade
-* 🎲 Simulador de Dados → loops, random
-* 🫱 Pedra, Papel e Tesoura / Lizard Spock → if/else, lógica de jogo
-* ❓ Quiz Game → listas, funções, condicionais
-* 🔢 Adivinhe Meu Número → loops, condicionais, input
-* 📏 Conversor Métrico / 📐 Calculadora de Área → funções, operações matemáticas
-* 🆘 Tradutor de Morse / 🔐 Cifra de César → strings, loops, dicionários
-
-**O que você aprende:**
-
-* Lógica de programação
-* Manipulação básica de strings e números
-* Estruturas de repetição e decisão
-
----
-
-## **Fase 2 – Manipulação de Dados e Arquivos** (Projetos Nível 2)
-
-Objetivo: trabalhar com **listas, dicionários, objetos, arquivos** e persistência de dados.
-
-**Projetos sugeridos:**
-
-* 🏦 Conta Bancária → classes, métodos, arquivos
-* 📝 Lista de Tarefas / 🛒 Lista de Compras → listas, loops, arquivos
-* 💸 Controle de Gastos → dicionários, manipulação de arquivos
-* 📚 Biblioteca / 🔎 Pokédex → classes, objetos, arquivos, pesquisa
-
-**O que você aprende:**
-
-* Estruturas de dados mais avançadas (listas, dicionários, sets)
-* Orientação a objetos básica
-* Leitura e escrita de arquivos
-* Organização de dados e CRUD simples
+| Projeto | Status |
+| :--- | :---: |
+| 🥠 Fortune Cookie |
+| 🎲 Dice Rolling Simulator |
+| 🫱 Rock Paper Scissors |
+| 🫱 Rock Paper Scissors Lizard Spock |
+| 🤑 Who Wants to Be a Millionaire |
+| ❓ Quiz Game | |
+| ⚔️ Text-Based Adventure | |
+| 🤖 Chatbot | |
+| 🙈 Truth or Dare | |
+| 🗓 Leap Year | |
+| ♣️ Baby Blackjack | |
+| ♣️ Blackjack | |
+| 📏 Metric Conversion Tool | |
+| 📐 Area Calculator | |
+| 🔢 Guess My Number | |
+| 🔡 Word Counter | |
+| 🆘 Morse Code Translator | |
+| 🏛 Roman Numeral Converter | |
+| 🚇 NYC MetroCard Calculator | |
+| 🔐 Caesar Cipher | |
 
 ---
 
-## **Fase 3 – Projetos Avançados e Mini-Games** (Projetos Nível 3)
+### 🗄️ Nível 2: Estruturas de Dados e Persistência
 
-Objetivo: consolidar Python, lógica avançada e introdução a **GUI e jogos**.
+Projetos que exigem a manipulação de dados, estruturas mais complexas e a persistência de informações (simulando ou utilizando um banco de dados simples, geralmente com arquivos de texto/JSON/CSV).
 
-**Projetos sugeridos:**
+**Conceitos chave:** Listas, objetos (ou dicionários/mapas), manipulação de arquivos (entrada e saída).
 
-* 🪦 Forca / ❌ Jogo da Velha / 🔴 Conecta 4 → lógica avançada, loops aninhados
-* 🐍 Snake / 🏓 Pong / 🧱 Tetris → lógica de jogo, colisão, movimento
-* ⏰ Alarme com GUI / ➗ Calculadora GUI → Tkinter, interface gráfica
-* 💣 Campo Minado / 👾 Space Invaders → lógica complexa, eventos, funções avançadas
-
-**O que você aprende:**
-
-* Lógica complexa e resolução de problemas
-* Estruturas de controle avançadas
-* GUI e interação com o usuário
-* Como organizar projetos grandes e dividir funções
-
----
-
-## **Extras – Dicas de Estudo**
-
-1. **Documente seu progresso no GitHub**: crie um repositório para cada projeto.
-2. **Refatore sempre que possível**: tente melhorar seu próprio código.
-3. **Pesquise constantemente**: Google é seu melhor amigo.
-4. **Faça pequenas variações**: por exemplo, modifique regras do jogo ou layout do programa.
+| Projeto |
+| :--- |
+| 🏦 Bank Account |
+| 🪐 Horoscope |
+| 📋 To-Do Lists |
+| 🛒 Grocery |
+| 💖 Faves List |
+| 📝 Class Schedule |
+| 💸 Expense Tracker |
+| 📚 Library Management System |
+| ☎️ Contact Book |
+| 🍲 Recipe Book |
+| 🔎 Pokédex |
 
 ---
 
-Perfeito! Aqui está uma **tabela pronta para GitHub**, resumida e visual, mostrando **nível, projeto e o que você aprende**:
+### 🕹️ Nível 3: Jogos e Projetos Avançados
 
-| Nível | Projeto                                         | Conceitos/Aprendizado                 |
-| ----- | ----------------------------------------------- | ------------------------------------- |
-| 1     | 🥠 Biscoito da Sorte                            | Funções, strings, aleatoriedade       |
-| 1     | 🎲 Simulador de Dados                           | Loops, random, entrada do usuário     |
-| 1     | 🫱 Pedra, Papel e Tesoura                       | Condicionais, lógica de jogo          |
-| 1     | 🫱 Pedra, Papel, Tesoura, Lagarto e Spock       | Condicionais, lógica de jogo avançada |
-| 1     | ❓ Quiz Game                                     | Listas, loops, funções, condicionais  |
-| 1     | 🔢 Adivinhe Meu Número                          | Loops, condicionais, input            |
-| 1     | 📏 Conversor Métrico / 📐 Calculadora de Área   | Funções, operações matemáticas        |
-| 1     | 🆘 Tradutor de Código Morse / 🔐 Cifra de César | Strings, loops, dicionários           |
-| 2     | 🏦 Conta Bancária                               | Classes, métodos, arquivos            |
-| 2     | 📝 Lista de Tarefas / 🛒 Lista de Compras       | Listas, loops, arquivos               |
-| 2     | 💸 Controle de Gastos                           | Dicionários, manipulação de arquivos  |
-| 2     | 📚 Biblioteca / 🔎 Pokédex                      | Classes, objetos, arquivos, pesquisa  |
-| 3     | 🪦 Forca                                        | Lógica avançada, loops aninhados      |
-| 3     | ❌ Jogo da Velha                                 | Lógica avançada, loops, funções       |
-| 3     | 🔴 Conecta 4                                    | Loops, lógica de jogo, arrays         |
-| 3     | 🐍 Snake                                        | Lógica de jogo, colisão, movimento    |
-| 3     | 🏓 Pong                                         | Lógica de jogo, física simples        |
-| 3     | ⏰ Alarme com GUI                                | Tkinter, interface gráfica, eventos   |
-| 3     | ➗ Calculadora GUI                               | Tkinter, funções, eventos             |
-| 3     | 💣 Campo Minado                                 | Lógica complexa, loops, funções       |
-| 3     | 👾 Space Invaders                               | Lógica de jogo, eventos, movimentação |
-| 3     | 🧱 Tetris                                       | Lógica de jogo, arrays, colisão       |
+Esta seção contém mini-jogos e projetos de terminal mais avançados que demandam lógica complexa, interfaces gráficas (GUI) ou a implementação de algoritmos mais robustos. Prepare-se para pesquisar bastante!
 
----
+**Conceitos chave:** Orientação a Objetos (OOP), Algoritmos de busca/movimento, Bibliotecas para GUI ou terminal, Estruturas de dados complexas.
 
-Se você seguir esse roadmap, ao final:
-
-* Vai dominar Python básico e intermediário.
-* Terá prática real com **objetos, arquivos e mini-projetos complexos**.
-* Estará pronto para criar seus próprios projetos ou migrar para frameworks e bibliotecas avançadas (como **Pandas**, **Tkinter**, **Pygame**).
+| Projeto |
+| :--- |
+| 🪦 Hangman |
+| ❌ Tic-Tac-Toe (Jogo da Velha) |
+| 🚢 Battleship (Batalha Naval) |
+| 🔴 Connect Four (Liga Quatro) |
+| 🐍 Snake |
+| 🏓 Pong |
+| 💨 Tron |
+| 💥 Breakout |
+| 👾 Space Invaders |
+| 🧠 2048 |
+| 🟩 Wordle |
+| ⏰ GUI Alarm Clock |
+| ➗ GUI Calculator |
+| 🧱 Tetris |
+| ◼️ Cards Against Humanity |
+| 🦖 T-Rex Run! |
+| 💣 Minesweeper (Campo Minado) |
+| 🎨 Paint |
