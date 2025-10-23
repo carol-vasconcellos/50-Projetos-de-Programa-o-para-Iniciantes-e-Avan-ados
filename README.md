@@ -14,8 +14,8 @@ A primeira leva de projetos é ideal para quem está começando e precisa consol
 
 **Conceitos chave:** Estruturas condicionais (`if/else`), geradores de números aleatórios e laços de repetição (`loops`). Uma exceção para o 🫱 Rock Paper Scissors e 🫱 Rock Paper Scissors Lizard Spock, pois esses foi usado listas e dicionários respectivamentes, para simplificar.
 
-| Projeto | Status |
-| :--- | :---: |
+| Projeto | 
+| :--- |
 | 🥠 Fortune Cookie |
 | 🎲 Dice Rolling Simulator |
 | 🫱 Rock Paper Scissors |
